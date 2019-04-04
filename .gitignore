@@ -1,3 +1,5 @@
 */__pycache__
 */.ipynb_checkpoints
 */*.pth
+convolutional-neural-networks/mnist-mlp/data
+convolutional-neural-networks/mnist-mlp/.ipynb_checkpoints
