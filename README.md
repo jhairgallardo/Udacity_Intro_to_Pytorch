@@ -15,3 +15,7 @@ This repository contains my solutions of the Udacity's [Intro to Deep Learning w
 
 * [Recurrent Networks (Time series & Character-level RNN)](https://github.com/jhairgallardo/Udacity_Intro_to_Pytorch/tree/master/recurrent-neural-networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how tom implement these in PyTorch for a variety of tasks.
 * [Sentiment Analysis RNN](https://github.com/jhairgallardo/Udacity_Intro_to_Pytorch/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
+
+### Generative Adversarial Networks
+
+* [Generative Adversarial Network on MNIST](https://github.com/jhairgallardo/Udacity_Intro_to_Pytorch/tree/master/gan-mnist): Train a simple generative adversarial network on the MNIST dataset.
